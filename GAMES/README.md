@@ -56,7 +56,9 @@ The computer will randomly select its choice after you play.
 
 ## 📸 Preview
 
-![screenshot](https://via.placeholder.com/600x300.png?text=Rock+Paper+Scissors+Game)
+![screenshot](./initial.png)
+![screenshot](./computer%20win.png)
+![screenshot](./user%20win.png)
 <!-- Replace with an actual screenshot of your game -->
 
 ---
