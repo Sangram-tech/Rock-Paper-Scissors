@@ -111,11 +111,11 @@
         resultText = `😞 You lose! ${computerChoice} beats ${playerChoice}`;
       }
 
-      // Update scores
+  
       document.getElementById('playerScore').innerText = `You: ${playerScore}`;
       document.getElementById('computerScore').innerText = `Computer: ${computerScore}`;
 
-      // Animate result
+    
       const resultDiv = document.getElementById('result');
       resultDiv.innerText = resultText;
       resultDiv.style.animation = 'none';
