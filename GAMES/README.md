@@ -72,13 +72,6 @@ The computer will randomly select its choice after you play.
 
 ---
 
-## 👨‍💻 Author
-
-**Sangram Mahakud**  
-Aspiring Software Developer & Agricultural Businessman from India
-
----
-
 ## 📝 License
 
 This project is open-source and free to use under the MIT License.
