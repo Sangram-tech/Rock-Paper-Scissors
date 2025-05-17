@@ -1,5 +1,5 @@
 
-# 🪨 Rock Paper Scissors Game
+## 🪨 Rock Paper Scissors Game
 
 A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer and keep score as you play!
 
@@ -29,7 +29,7 @@ rock-paper-scissors/
 ## 🚀 How to Play
 
 1. **Download** or **clone** this repository.
-2. Open `index.html` in any modern **web browser**.
+2. Open `GAMES.HTML` in any modern **web browser**.
 3. Click on **Rock**, **Paper**, or **Scissors** to play.
 4. The result and updated score will be displayed immediately.
 
@@ -69,13 +69,6 @@ The computer will randomly select its choice after you play.
 - [ ] Add sound effects for actions
 - [ ] Dark mode toggle
 - [ ] Track win/loss history
-
----
-
-## 👨‍💻 Author
-
-**Sangram Mahakud**  
-Aspiring Software Developer & Agricultural Businessman from India
 
 ---
 
