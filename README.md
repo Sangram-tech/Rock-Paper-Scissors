@@ -7,7 +7,7 @@ A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **J
 
 ## 🚀 Live Demo
 
-👉 **[Try it Now on CodePen](https://sangram-tech.github.io/Weather-App/)**  
+👉 **[Try it Now on CodePen](https://sangram-tech.github.io/Rock-Paper-Scissors/)**  
 *(Replace with your actual CodePen URL after publishing)*
 
 ## 📌 Overview
