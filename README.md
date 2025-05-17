@@ -1,4 +1,3 @@
-
 ## 🪨 Rock Paper Scissors Game
 
 A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer and keep score as you play!
@@ -56,9 +55,10 @@ The computer will randomly select its choice after you play.
 
 ## 📸 Preview
 
-![screenshot](IMAGES./initial.png)
-![screenshot](IMAGES./computer%20win.png)
-![screenshot](IMAGES.I/user%20win.png)
+![screenshot](./IMAGES/initial.png)
+![screenshot](./IMAGES/computer%20win.png)
+![screenshot](./IMAGES/user%20win.png)
+
 <!-- Replace with an actual screenshot of your game -->
 
 ---
