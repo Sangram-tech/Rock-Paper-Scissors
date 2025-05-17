@@ -4,6 +4,12 @@ A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **J
 
 ---
 
+
+## 🚀 Live Demo
+
+👉 **[Try it Now on CodePen](https://sangram-tech.github.io/Weather-App/)**  
+*(Replace with your actual CodePen URL after publishing)*
+
 ## 📌 Overview
 
 This is a classic Rock Paper Scissors game where the player competes against the computer. Choose Rock, Paper, or Scissors and try to beat the computer's choice.
